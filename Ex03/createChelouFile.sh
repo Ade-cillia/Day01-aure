@@ -1,3 +1,3 @@
 #!/bin/bash
 #"\?'*it_Akademy*'?\"
-touch \"\\\?\$\*\'KwaMe\'\*\$\?\\\"
+touch \"\\\?\'\*it_Akademy\*\'\?\\\"
